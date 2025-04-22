@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/68458b4e-54c7-47c3-aeb2-5cbfb5572ffb)
 ## - Step 3: Run game and then run file .exe (CS2)
 ## - Step 4: Enjoy!
-# Config: https://github.com/diy2kay4/config.git
+# Config: https://github.com/diy2k4/Config
 # Please read before complaining!
 - This is a free time project, so don't expect any big over the week updates.
 # Note
