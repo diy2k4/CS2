@@ -15,3 +15,8 @@
 - This is a free time project, so don't expect any big over the week updates.
 # Note
 - Software will update after valve update 12-24 hours
+
+# Download Tutorial
+https://www.youtube.com/watch?v=f1ggj3nh5OA
+# Review
+https://www.youtube.com/watch?v=MriQY8BFvtU
