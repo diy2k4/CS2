@@ -17,6 +17,7 @@
 - Software will update after valve update 12-24 hours
 
 # Download Tutorial
-https://www.youtube.com/watch?v=f1ggj3nh5OA
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=f1ggj3nh5OA)
+
 # Review
-https://www.youtube.com/watch?v=MriQY8BFvtU
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=MriQY8BFvtU)
